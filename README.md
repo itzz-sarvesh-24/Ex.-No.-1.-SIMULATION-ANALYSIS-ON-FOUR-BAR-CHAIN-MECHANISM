@@ -53,6 +53,7 @@
 
 
 ## Output:
+
 <img width="1217" height="860" alt="Screenshot 2025-12-10 135107" src="https://github.com/user-attachments/assets/61ce07dd-1fc7-4502-b8b6-a7f620187d36" />
 
 <img width="1127" height="749" alt="Screenshot 2025-12-10 135119" src="https://github.com/user-attachments/assets/a1b85d4f-c973-4a23-a3e4-f8a5a2b0c72d" />
@@ -62,7 +63,9 @@
 <img width="1450" height="923" alt="Screenshot 2025-12-10 135158" src="https://github.com/user-attachments/assets/a705795f-da90-4216-90f5-18063216a71d" />
 
 <img width="1458" height="752" alt="Screenshot 2025-12-10 135213" src="https://github.com/user-attachments/assets/05152519-5695-4b21-b4d4-53ad4ccdace8" />
-### Name:  SARVESH.M
+
+### Name: SARVESH.M
+
 ### Register Number: 25008280
 
 ## RESULT:
